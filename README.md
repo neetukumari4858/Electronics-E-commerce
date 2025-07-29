@@ -48,5 +48,5 @@ Responsive Design:
 <br/> Shop effortlessly on any device—be it desktop, tablet, or mobile. ElectroNest is built to handle high traffic, support extensive product catalogs, and offer a smooth, enjoyable shopping journey.
 
 <b>Project Report:</b>
-[View Document](https://github.com/user-attachments/files/18212892/last.pdf)
+[View Document](file:///C:/Users/DELL/Downloads/Neetu-Kumari%20BCA%20Report.pdf.pdf)
 
